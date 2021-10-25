@@ -87,6 +87,12 @@ class WeDevs_Settings_API_Test {
                     'type'        => 'html'
                 ),
                 array(
+                    'name'        => 'subsection',
+                    'label'       => __( 'My subsection', 'wedevs' ),
+                    'desc'        => __( 'Now we can have a subsection description too ;)', 'wedevs' ),
+                    'type'        => 'subsection'
+                ),
+                array(
                     'name'  => 'checkbox',
                     'label' => __( 'Checkbox', 'wedevs' ),
                     'desc'  => __( 'Checkbox Label', 'wedevs' ),
