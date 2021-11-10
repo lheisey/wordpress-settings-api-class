@@ -3,7 +3,9 @@
 /**
  * weDevs Settings API wrapper class
  *
- * @version 1.3.4 (08-Nov-2021)
+ * @version 1.3 (27-Sep-2016)
+ *
+ * Modifications by Loren Heisey - revision 10-Nov-2021
  *
  * @author Tareq Hasan <tareq@weDevs.com>
  * @link https://tareq.co Tareq Hasan
